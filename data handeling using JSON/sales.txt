@@ -1,0 +1,7 @@
+chinmay       7410755739       12345 , kitkat , 4 , 15 , 60Sun Feb 25 00:06:40 2024
+chinmay       7410755739       34567 , cookies , 6 , 12 , 72Sun Feb 25 00:06:40 2024
+chinmay       7410755739       56789 , cheese , 4 , 55 , 220Sun Feb 25 00:06:40 2024
+chinmay       1234567890       12345     kitkat     2     15     30Tue Feb 27 11:17:20 2024
+chinmay       1234567890       23456     notebook     3     43     129Tue Feb 27 11:17:20 2024
+chinmay       1234567890       34567     cookies     1     12     12Tue Feb 27 11:17:20 2024
+chinmay       1234567890       45678     chips     5     10     50Tue Feb 27 11:17:20 2024
